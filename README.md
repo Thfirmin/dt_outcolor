@@ -8,9 +8,9 @@
 
 # TODO
 
-[x] Put all Messages with(out) fd
-[] Put printf placeholder
-[] Implement of printf flags
-[] Implement of new formats
-[] Implement printf buffer management
+[ x ] Put all Messages with(out) fd   
+[ ] Put printf placeholder   
+[ ] Implement of printf flags   
+[ ] Implement of new formats   
+[ ] Implement printf buffer management
 
