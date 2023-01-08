@@ -2,12 +2,15 @@
 
 > Outcolor is a c lang library project who work as printf but with _More formats_
 
+- Do things like print in **BOLD** or *Italic*; 
+- Print to STDOUT using terminal color support.
+
+
 # TODO
 
-| Steps             | Description                        |
-|:-----------------:|:----------------------------------:|
-| Basic Print       | Put all Message With(out) fd       |
-| Formated Print    | Put printf placeholders            |
-| Flaggad Print     | Implement of printf flags          |
-| Plus Formatted    | Implement of new formats           |
-| Buffer management | Implement printf buffer management |
+[x] Put all Messages with(out) fd
+[] Put printf placeholder
+[] Implement of printf flags
+[] Implement of new formats
+[] Implement printf buffer management
+
